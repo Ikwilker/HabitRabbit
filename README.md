@@ -7,8 +7,9 @@ I will come back and add my notes that I have been taking into this repository s
 
 Development Overview
 
-• Will be developed in Ionic 
+• Will be developed in Ionic as a hybrid style project  
 • Features will be broken down into parts and worked on 1 or 2 at a time starting with the shopping and habits tabs 
+• PLEASE make sure to add notes to you pushes to keep track of what changes are made by who and where 
 
 Future planned and possible features/tabs 
 
